@@ -1,4 +1,3 @@
-### Decision_Tree for discriminate
 為了做專題的實驗品之一，嘗試用決策樹去做中醫辨證。
 
 只放了月經提前的症狀來做測試。
